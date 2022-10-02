@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Resources from './routes/ResourcesPage'
 import About from './routes/AboutPage'
+import Contact from './routes/ContactPage'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,6 +16,7 @@ root.render(
     <Route path="/" element={<App />} />
     <Route path="/resources" element={<Resources />} />
     <Route path="/about" element={<About />} />
+    <Route path="/contact" element={<Contact />} />
     </Routes>
   
   </BrowserRouter>
