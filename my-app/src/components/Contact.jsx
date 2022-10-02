@@ -6,11 +6,11 @@ const Contact = () => {
     <div className="'w-full bg-white py-16 px-4 space-y-5">
 
       <h2 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6 text-center">
-        Got a question?  
+        Got a question? <space></space>
         <span>
         <Typed 
           className="text-[#00df9a]"
-          strings={[ " Let's chat."]} 
+          strings={["Let's chat."]} 
           typeSpeed={140} 
           backSpeed={160}
           loop
