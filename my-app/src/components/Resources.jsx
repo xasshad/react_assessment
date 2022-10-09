@@ -10,7 +10,7 @@ const Resources = () => {
           <p className='text-[#00df9a] font-bold '>DATA RESOURCING</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-white'>When you have more data, you win.</h1>
           <p className="text-white">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit at, asperiores autem fuga voluptatibus assumenda recusandae tenetur in pariatur sunt ipsam ab illo provident, accusantium quaerat, eos est consequuntur perferendis.
+            We provide our clients top-of-the-line services and resources that will give them an edge. From data warehousing, visualisations and reporting, to consultancy and training.
           </p>
           <button className='text-black bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Learn More</button>
         </div>

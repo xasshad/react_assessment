@@ -10,8 +10,8 @@ const Footer = () => {
   return (
     <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
         <div>
-            <h1 className='w-full text-3xl font-bold text-[#00df9a]'>REACT.</h1>
-            <p className="py-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum cum accusantium vero repellendus rem libero sint minima tenetur. Expedita, eos ipsam doloribus soluta enim est.</p>
+            <h1 className='w-full text-3xl font-bold text-[#00df9a]'>DATABLAST.</h1>
+            <p className="py-4"> © 2022. All Rights Reserved.</p>
 
             <div className="flex justify-between md:w-[75%] my-6">
                 <FaFacebookSquare size={30}/>
